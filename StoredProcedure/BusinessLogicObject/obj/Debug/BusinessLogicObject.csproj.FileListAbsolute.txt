@@ -1,0 +1,6 @@
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\bin\Debug\BusinessLogicObject.dll
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\bin\Debug\BusinessLogicObject.pdb
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\obj\Debug\BusinessLogicObject.csproj.AssemblyReference.cache
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\obj\Debug\BusinessLogicObject.csproj.CoreCompileInputs.cache
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\obj\Debug\BusinessLogicObject.dll
+D:\git\StoredProcedure\StoredProcedure\BusinessLogicObject\obj\Debug\BusinessLogicObject.pdb

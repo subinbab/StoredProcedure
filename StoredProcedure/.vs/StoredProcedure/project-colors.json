@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce4b417e-0764-472d-af1b-2366fe03f0ce": {
+      "ProjectGuid": "ce4b417e-0764-472d-af1b-2366fe03f0ce",
+      "DisplayName": "Sample1",
+      "ColorIndex": 0
+    },
+    "8e632463-f7a6-4f2b-99f5-9727ba8ca15d": {
+      "ProjectGuid": "8e632463-f7a6-4f2b-99f5-9727ba8ca15d",
+      "DisplayName": "BusinessLogicObject",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4eb58e41-d689-4a26-926f-77aa49a00911": {
+      "ProjectGuid": "4eb58e41-d689-4a26-926f-77aa49a00911",
+      "DisplayName": "BuisinessLogic",
+      "ColorIndex": 2
+    },
+    "8a8e1182-c3dd-45a5-aae4-cc729a964fd5": {
+      "ProjectGuid": "8a8e1182-c3dd-45a5-aae4-cc729a964fd5",
+      "DisplayName": "webapi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
